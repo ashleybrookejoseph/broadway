@@ -16,6 +16,10 @@ h1 {
   color: white;
 }
 
+a {
+  color: white;
+}
+
 .designed {
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
   font-weight: bold;
@@ -25,6 +29,7 @@ h1 {
 
 h2 {
   text-align: center;
+  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
 }
@@ -37,4 +42,11 @@ h3 {
 
 .smalltext {
   font-size: 14px;
+}
+
+.bottomrail {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgrey;
 }
